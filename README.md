@@ -15,15 +15,19 @@
     - Blog description : https://lsjsj92.tistory.com/631
 - example_sequence_dag.py
     - Sequence DAG example ( dag branch )
+    - Blog description : https://lsjsj92.tistory.com/632
 - example_python_dag.py
     - Python basic DAG example
+    - Blog description : https://lsjsj92.tistory.com/632
 - example_ml_dag.py
     - Machine Learning basic DAG example
     - Run with MLproject dir
     - Titanic data & scikit-learn
+    - Blog description : https://lsjsj92.tistory.com/633
 - example_slack_dag.py
     - Airflow slack alert example
     - Basically the same as example_ml_dag.py code and added slack api
+    - Blog description : https://lsjsj92.tistory.com/634
 
 ---- 
 
